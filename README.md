@@ -1,4 +1,4 @@
-ogit clone https://github.com/MRXTEAAM/X--Test.git
+git clone https://github.com/MRXTEAAM/X--Test.git
 
 cd X--Test
 
