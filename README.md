@@ -2,6 +2,6 @@ git clone https://github.com/MRXTEAAM/X--Test.git
 
 cd X--Test
 
-chmod +x *
+chmod 777 g_enc
 
-./Fking
+./X--Test
